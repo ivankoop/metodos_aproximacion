@@ -1,4 +1,4 @@
-## Como ejecutar
+## Guia de instalación y ejecución
 
 ```
 pip install numpy
